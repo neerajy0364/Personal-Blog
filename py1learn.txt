@@ -1,0 +1,17 @@
+*How to open visual studeio code by using command
+fist check python installed in your window follow the setps
+python --version
+then 
+cd desktop (enter then
+mkdir work (enter then
+cd work (enter then eg work as file name 
+code . (enter then opned vs code editor)
+
+*imp commands
+django-admin startproject mysite(mysite as  projectfolder name)
+python manage.py startapp polls (polls as used application name ) (this comnds we can used for create application )
+python manage.py createsuperuser
+python manage.py runserver
+
+for upgrade
+python -m pip install -U pip(used this commd as upgrade pip)
